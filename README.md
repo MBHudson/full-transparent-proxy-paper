@@ -1,5 +1,7 @@
 # full-transparent-proxy-paper
 
+https://powerdns.org/tproxydoc/tproxy.md.html
+
 Linux transparent proxy support
 Introduction · High level · The routing part · Intercepting packets: the userspace part · The two roles of IP_TRANSPARENT · Getting the original destination address · Caveats · The -m socket line you find everywhere
 DRAFT!
