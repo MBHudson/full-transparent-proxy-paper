@@ -255,3 +255,11 @@ target.
 
 For more information please consult the following page on the Squid
 wiki: http://wiki.squid-cache.org/Features/Tproxy4
+
+
+
+
+
+---
+
+https://www.xmodulo.com/how-to-set-up-transparent-proxy-on-linux.html
